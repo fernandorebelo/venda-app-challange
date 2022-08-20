@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">venda-app-challange</string>
+    <string name="vendaId"></string>
+    <string name="valorVenda">Valor da venda</string>
+    <string name="textoValor"></string>
+    <string name="cadastrarVenda">Cadastrar venda</string>
+    <string name="cancel">cancelar</string>
+</resources>
